@@ -57,7 +57,7 @@ This system allows administrators to manage employees, departments, and attendan
   - `attendance`
 
 Sample admin credentials:
-Username: admin
-Password: admin123
+- Username: admin
+- Password: admin123
 
 Check https://github.com/dhananjayanethma/employee-management-system/blob/main/Employee_Management_System_Setup_Guide.pdf
