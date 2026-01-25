@@ -3,9 +3,8 @@
 A web-based **Employee Management System** developed using **Java, JSP, Servlets, MySQL, and Apache Tomcat** following the **MVC architecture**.  
 This system allows administrators to manage employees, departments, and attendance records securely and efficiently.
 
----
 
-## 🚀 Features
+## Features
 
 - Admin login authentication
 - Employee CRUD operations (Create, Read, Update, Delete)
@@ -15,30 +14,25 @@ This system allows administrators to manage employees, departments, and attendan
 - MySQL database integration
 - MVC-based clean project structure
 
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Java (JDK 17+)**
 - **JSP & Servlets**
 - **Apache Tomcat 10.1**
 - **MySQL Server**
 - **MySQL Workbench**
-- **JDBC**
 - **Eclipse IDE for Enterprise Java**
 
----
 
-## 🧱 Project Architecture
+## Project Architecture
 
 ### MVC Architecture
 - **Model:** Java classes (Employee, Department, Admin)
 - **View:** JSP pages
 - **Controller:** Servlets
 
----
 
-## 🧠 OOP & Design Patterns Used
+## OOP & Design Patterns Used
 
 ### OOP Concepts
 - Encapsulation (private fields with getters/setters)
@@ -51,9 +45,8 @@ This system allows administrators to manage employees, departments, and attendan
 - DAO Pattern
 - Singleton Pattern (Database connection)
 
----
 
-## 🗄️ Database
+## Database
 
 - Database Name: `employee_management`
 - SQL script provided: `employee_management.sql`
@@ -66,3 +59,5 @@ This system allows administrators to manage employees, departments, and attendan
 Sample admin credentials:
 Username: admin
 Password: admin123
+
+Check https://github.com/dhananjayanethma/employee-management-system/blob/main/Employee_Management_System_Setup_Guide.pdf
