@@ -60,4 +60,5 @@ Sample admin credentials:
 - Username: admin
 - Password: admin123
 
-Check https://github.com/dhananjayanethma/employee-management-system/blob/main/Employee_Management_System_Setup_Guide.pdf
+## Screenshots and demo video are available in the media/ folder.
+## Setup document is available in https://github.com/dhananjayanethma/employee-management-system/blob/main/Employee_Management_System_Setup_Guide.pdf
