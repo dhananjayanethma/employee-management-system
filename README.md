@@ -1,6 +1,6 @@
 # Employee Management System
 
-A web-based **Employee Management System** developed using **Java, JSP, Servlets, MySQL, and Apache Tomcat** following the **MVC architecture**.  
+A web-based **Employee Management System** developed using **Java, JSP, Servlets, MySQL and Apache Tomcat** following the **MVC architecture**.  
 This system allows administrators to manage employees, departments, and attendance records securely and efficiently.
 
 
